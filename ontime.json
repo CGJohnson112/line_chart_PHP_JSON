@@ -2,50 +2,62 @@
     {
         "id": 1,
         "ontimeId": "Jan",
-        "score": 90
+        "score2019": 92,
+        "score2020": 99
     }, {
         "id": 2,
         "ontimeId": "Feb",
-        "score": 81
+        "score2019": 93,
+        "score2020": 96
     }, {
        "id": 3,
         "ontimeId": "Mar",
-        "score": 99
+        "score2019": 100,
+        "score2020": 98
     }, {
         "id": 4,
         "ontimeId": "Apr",
-        "score": 98
+        "score2019": 98,
+        "score2020": 93
     }, {
         "id": 5,
         "ontimeId": "May",
-        "score": 100
+        "score2019": 100,
+        "score2020": 98
     }, {
         "id": 6,
         "ontimeId": "Jun",
-        "score": 98
+        "score2019": 100,
+        "score2020": 98
     }, {
         "id": 7,
         "ontimeId": "Jul",
-        "score": 100
+        "score2019": 100,
+        "score2020": 98
     }, {
         "id": 8,
         "ontimeId": "Aug",
-        "score": 100
+        "score2019": 93,
+        "score2020": 85
     }, {
         "id": 9,
         "ontimeId": "Sept",
-        "score": 93
+        "score2019": 88,
+        "score2020": 100
     }, {
         "id": 10,
         "ontimeId": "Oct",
-        "score": 98
+        "score2019": 99,
+        "score2020": 94
     }, {
         "id": 11,
         "ontimeId": "Nov",
-        "score": 100
+        "score2019": 100,
+        "score2020": 98
     }, {
         "id": 12,
         "ontimeId": "Dec",
-        "score": 95
+        "score2019": 89,
+        "score2020": 98
     }
 ]
